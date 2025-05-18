@@ -33,33 +33,26 @@
 | 🎯 **EzzCook** | ReactJS, HTML, CSS, JS | A recipe app for lazy chefs – minimalist, clean & responsive |
 
 ---
-## GitHub Stata
+### 📈 GitHub Stats
 
-name: Generate Datas
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-with:
-          github_user_name: rudrika08
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rudrika08&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight" />
+</div>
 
-  ---
-  
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://rudrika08.github.io/rudrika08/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://rudrika08.github.io/rudrika08/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" />
+</p>
+
+---
 ### 📬 Let's Connect!
 
 <p align="center">
@@ -67,8 +60,6 @@ with:
   <a href="mailto:rudrika08.panigrahi@gmail.com">📧 Email</a> •
   <a href="https://portfolio-rp-topaz.vercel.app/" target="_blank">🌐 Portfolio</a>
 </p>
-
----
 
 > *"Design is the soul, code is the structure. Web development is where both meet to tell a story"*
 
