@@ -1,4 +1,7 @@
 <h2 align="center">Hey there 👋, I'm Rudrika Panigrahi</h2>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV6MHE3em9pb2Z5emppNmJtMmExa241dnFjb3BtMHJ3Z2c1aDQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF" width="400" />
+</p>
 
 <p align="center">
   🌸Full Stack Dev | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
@@ -20,7 +23,7 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,c,mongodb,vscode,github" />
 </div>
 
 ---
