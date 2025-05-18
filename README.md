@@ -10,8 +10,8 @@
 ### 🧠 About Me
 
 - 🎓 Currently a 2nd-year B.Tech student in Computer Science at KIIT University
-- 🌐 Frontend Developer & aspiring UI/UX designer
-- 🔍 Exploring **ReactJS**, **TailwindCSS**, and **web animations**
+- 🌐 Full Stack Developer
+- 🔍 Exploring **Backend**
 - 🖼 I love creating visually soothing and user-friendly designs
 - 📷 Outside tech: I enjoy **painting**, **reading**, **music**, and **photography**
 
