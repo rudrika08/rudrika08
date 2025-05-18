@@ -42,14 +42,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://rudrika08.github.io/rudrika08/github-contribution-grid-snake.svg" alt="Snake animation GIF" width="300" />
-</p>
-
----
-
 ### 🧩 LeetCode Stats
 
 <p align="center">
