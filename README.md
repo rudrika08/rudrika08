@@ -8,7 +8,7 @@
   ✨ Making interfaces that feel like magic ✨
 </p>
 
----
+
 
 ### 🧠 About Me
 
@@ -18,7 +18,7 @@
 - 🖼 I love creating visually soothing and user-friendly designs
 - 📷 Outside tech: I enjoy **painting**, **reading**, **music**, and **photography**
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,c,mongodb,vscode,github" />
 </div>
 
----
+
 
 ### 🌟 My Projects
 
@@ -35,7 +35,7 @@
 | 🎯 **Portfolio** | ReactJS, HTML, CSS, JS |A clean personal website to showcase who I am, what I build, and where I’m going. |
 | 🎯 **EzzCook** | ReactJS, HTML, CSS, JS | A recipe app for lazy chefs – minimalist, clean & responsive |
 
----
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -43,7 +43,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight" />
 </div>
 
----
+
 
 ### 🧩 LeetCode Stats
 
@@ -52,7 +52,6 @@
 </p>
 
 
----
 ### 📬 Let's Connect!
 
 <p align="center">
