@@ -61,7 +61,7 @@
   <a href="https://portfolio-rp-topaz.vercel.app/" target="_blank">🌐 Portfolio</a>
 </p>
 
-> *"Design is the soul, code is the structure. Web development is where both meet to tell a story"*
+  *"Design is the soul, code is the structure. Web development is where both meet to tell a story"*
 
 
 
