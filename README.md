@@ -45,12 +45,17 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://rudrika08.github.io/rudrika08/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://rudrika08.github.io/rudrika08/github-contribution-grid-snake.svg" alt="Snake animation GIF" width="300" />
 </p>
 
+---
+
+### 🧩 LeetCode Stats
+
 <p align="center">
-  <img src="https://rudrika08.github.io/rudrika08/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" />
+  <img src="https://leetcode-stats.vercel.app/api?username=Rudrika_08&theme=dark&show_icons=true&hide_title=true&hide_rank=true" alt="LeetCode Stats" />
 </p>
+
 
 ---
 ### 📬 Let's Connect!
