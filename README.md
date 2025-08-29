@@ -12,9 +12,9 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently a 2nd-year B.Tech student in **Computer Science** at KIIT University
+- 🎓 Currently a 3rd-year B.Tech student in **Computer Science** at KIIT University
 - 🌐 **Full Stack Developer**
-- 🔍 Exploring **Backend**,**AI/ML**
+- 🔍 Exploring **AI/ML**, **Data Science**
 - 🖼 I love creating visually soothing and user-friendly designs
 - 📷 Outside tech: I enjoy **painting**, **reading**, **music**, and **photography**
 
