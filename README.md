@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🌸Full Stack Dev | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
+  🌸Full Stack Dev | AI/ML | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
   ✨ Making interfaces that feel like magic ✨
 </p>
 
@@ -14,7 +14,7 @@
 
 - 🎓 Currently a 3rd-year B.Tech student in **Computer Science** at KIIT University
 - 🌐 **Full Stack Developer**
-- 🔍 Exploring **AI/ML**, **Data Science**
+- 🔍 **AI/ML**, **Data Science**
 - 🖼 I love creating visually soothing and user-friendly designs
 - 📷 Outside tech: I enjoy **painting**, **reading**, **music**, and **photography**
 
