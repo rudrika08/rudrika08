@@ -3,8 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV6MHE3em9pb2Z5emppNmJtMmExa241dnFjb3BtMHJ3Z2c1aDQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF" width="400" />
 </p>
 <p align="center">
-  🌸 Full Stack Dev | ☁️ Cloud & DevOps | AI/ML | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
-  ✨ Making interfaces that feel like magic ✨
+  🌸 FSD | ☁️ Cloud & DevOps | AI/ML | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
 </p>
 
 ### 🧠 About Me
@@ -28,26 +27,21 @@
 | 🏨 **StaySync** | Full Stack, AI/ML | An AI-powered group inventory and coordination platform for shared stays. |
 | 🏦 **Agentic AI Digital Banking** | AI/ML, Agentic Workflows | A loan onboarding system powered by agentic AI to streamline digital banking journeys. |
 | 🗺 **Tourism Dashboard** | PostgreSQL, Streamlit, Data Engineering | A data pipeline and interactive dashboard surfacing tourism insights end to end. |
-| 🤖 **Portfolio + RAG Chatbot** | ReactJS, Gemini Embeddings, Groq (LLaMA) | My personal portfolio site featuring a RAG-powered chatbot that can answer questions about my work. [Live](https://portfolio-rp-topaz.vercel.app/) |
-| 🍳 **EzzCook** | ReactJS, HTML, CSS, JS | A recipe app for lazy chefs – minimalist, clean & responsive |
-
+| 🤖 **Portfolio + RAG Chatbot** | ReactJS, Gemini Embeddings, Groq (LLaMA) | My personal portfolio site featuring a RAG-powered chatbot that can answer questions about my work. [Live](https://www.rudrika.tech/) |
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=rudrika08&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rudrika08&show_icons=true&theme=tokyonight&hide_border=true&card_width=440" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight&hide_border=true&card_width=310" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rudrika08&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudrika08&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=rudrika08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/rudrika-panigrahi-6085b5268" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:rudrika08.panigrahi@gmail.com">📧 Email</a> •
-  <a href="https://portfolio-rp-topaz.vercel.app/" target="_blank">🌐 Portfolio</a>
+  <a href="mailto:rudrika.812@gmail.com">📧 Email</a> •
+  <a href="https://www.rudrika.tech/" target="_blank">🌐 Portfolio</a>
 </p>
 
 *"The best way out is always through"*
