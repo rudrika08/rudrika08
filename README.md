@@ -2,77 +2,63 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV6MHE3em9pb2Z5emppNmJtMmExa241dnFjb3BtMHJ3Z2c1aDQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF" width="400" />
 </p>
-
 <p align="center">
-  🌸Full Stack Dev | AI/ML | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
+  🌸 Full Stack Dev | ☁️ Cloud & DevOps | AI/ML | 🎨 Designer by Passion | 💻 B.Tech CSE @ KIIT University <br>
   ✨ Making interfaces that feel like magic ✨
 </p>
 
-
-
 ### 🧠 About Me
-
-- 🎓 Currently a 3rd-year B.Tech student in **Computer Science** at KIIT University
-- 🌐 **Full Stack Developer**
-- 🔍 **AI/ML**, **Data Science**
+- 🎓 Pre-final year B.Tech student in **Computer Science** at KIIT University (Class of 2027)
+- 🚀 Senior Technical Executive @ **FED KIIT**
+- 🛰 Completed an internship at **ISRO**
+- ☁️ Exploring **Cloud Engineering & DevOps** — CI/CD pipelines, containerization, and infrastructure automation
+- 🔍 **AI/ML**, **Data Science**, and building full-stack products end to end
 - 🖼 I love creating visually soothing and user-friendly designs
 - 📷 Outside tech: I enjoy **painting**, **reading**, **music**, and **photography**
 
-
-
 ### 🛠 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,c,mongodb,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,react,html,css,spring,docker,jenkins,azure,ansible,mongodb,postgres,git,github,vscode,linux" />
 </div>
-
-
 
 ### 🌟 My Projects
-
 | Project | Tech Used | Description |
 |--------|------------|-------------|
-| 🎯 **Portfolio** | ReactJS, HTML, CSS, JS |A clean personal website to showcase who I am, what I build, and where I’m going. |
-| 🎯 **EzzCook** | ReactJS, HTML, CSS, JS | A recipe app for lazy chefs – minimalist, clean & responsive |
-
+| ⚙️ **Task Manager CI/CD Pipeline** | Spring Boot, Jenkins, Docker, Ansible, Azure VMs | An end-to-end DevOps pipeline for a Task Manager REST API — automated builds via GitHub webhooks, containerized deployment, and Slack/email notifications on build status. [Repo](https://github.com/rudrika08/task-manager-cicd) |
+| 🏨 **StaySync** | Full Stack, AI/ML | An AI-powered group inventory and coordination platform for shared stays. |
+| 🏦 **Agentic AI Digital Banking** | AI/ML, Agentic Workflows | A loan onboarding system powered by agentic AI to streamline digital banking journeys. |
+| 🗺 **Tourism Dashboard** | PostgreSQL, Streamlit, Data Engineering | A data pipeline and interactive dashboard surfacing tourism insights end to end. |
+| 🤖 **Portfolio + RAG Chatbot** | ReactJS, Gemini Embeddings, Groq (LLaMA) | My personal portfolio site featuring a RAG-powered chatbot that can answer questions about my work. [Live](https://portfolio-rp-topaz.vercel.app/) |
+| 🍳 **EzzCook** | ReactJS, HTML, CSS, JS | A recipe app for lazy chefs – minimalist, clean & responsive |
 
 ### 📈 GitHub Stats
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rudrika08&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=rudrika08&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rudrika08&theme=tokyonight" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrika08&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Rudrika_08&theme=dark&show_icons=true&hide_title=true&hide_rank=true" alt="LeetCode Stats" />
-</p>
-
-
 ### 📬 Let's Connect!
-
 <p align="center">
-  <a href="www.linkedin.com/in/rudrika-panigrahi-6085b5268" target="_blank">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rudrika-panigrahi-6085b5268" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:rudrika08.panigrahi@gmail.com">📧 Email</a> •
   <a href="https://portfolio-rp-topaz.vercel.app/" target="_blank">🌐 Portfolio</a>
 </p>
 
-  *"Design is the soul, code is the structure. Web development is where both meet to tell a story"*
-
-
+*"The best way out is always through"*
 
 <!--
 **rudrika08/rudrika08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
