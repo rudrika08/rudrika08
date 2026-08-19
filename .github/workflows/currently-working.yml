@@ -1,0 +1,149 @@
+name: Update Currently Working Repo
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Find latest repository
+        id: repo
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: |
+          gh api graphql \
+            -f query='
+            query($login: String!) {
+              user(login: $login) {
+                repositories(
+                  first: 100
+                  ownerAffiliations: OWNER
+                  orderBy: {field: UPDATED_AT, direction: DESC}
+                ) {
+                  nodes {
+                    name
+                    url
+                    isArchived
+                    isFork
+                    defaultBranchRef {
+                      target {
+                        ... on Commit {
+                          committedDate
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }' \
+            -F login="rudrika08" > repos.json
+
+          cat repos.json | jq -r '
+            .data.user.repositories.nodes[]
+            | select(.name != "rudrika08")
+            | select(.isArchived == false)
+            | select(.isFork == false)
+            | select(.defaultBranchRef.target.committedDate != null)
+            | [
+                .defaultBranchRef.target.committedDate,
+                .name,
+                .url
+              ]
+            | @tsv
+          ' | sort -r | head -1 > latest.txt
+
+          REPO_NAME=$(cut -f2 latest.txt)
+          REPO_URL=$(cut -f3 latest.txt)
+          COMMIT_DATE=$(cut -f1 latest.txt)
+
+          echo "repo=$REPO_NAME" >> "$GITHUB_OUTPUT"
+          echo "url=$REPO_URL" >> "$GITHUB_OUTPUT"
+          echo "date=$COMMIT_DATE" >> "$GITHUB_OUTPUT"
+
+          echo "Latest repository: $REPO_NAME"
+          echo "Last commit: $COMMIT_DATE"
+
+      - name: Update README badge
+        env:
+          REPO_NAME: ${{ steps.repo.outputs.repo }}
+          REPO_URL: ${{ steps.repo.outputs.url }}
+          COMMIT_DATE: ${{ steps.repo.outputs.date }}
+        run: |
+          python3 <<'PY'
+          import os
+          import re
+          from datetime import datetime
+
+          repo_name = os.environ["REPO_NAME"]
+          repo_url = os.environ["REPO_URL"]
+          commit_date = os.environ["COMMIT_DATE"]
+
+          date = datetime.fromisoformat(
+              commit_date.replace("Z", "+00:00")
+          ).strftime("%d %b %Y")
+
+          badge_repo = repo_name.replace("-", "--")
+
+          badge = (
+              f"https://img.shields.io/badge/"
+              f"{badge_repo}-Currently%20Working%20On"
+              f"-blue?style=for-the-badge"
+          )
+
+          replacement = f"""<!-- CURRENT_REPO:START -->
+          <a href="{repo_url}">
+            <img src="{badge}" alt="Currently Working On" />
+          </a>
+
+          <br>
+
+          <sub>Last commit: {date}</sub>
+          <!-- CURRENT_REPO:END -->"""
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"<!-- CURRENT_REPO:START -->.*?<!-- CURRENT_REPO:END -->"
+
+          updated = re.sub(
+              pattern,
+              replacement,
+              readme,
+              flags=re.DOTALL
+          )
+
+          if updated == readme:
+              print("Current repository section not found.")
+              exit(1)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+
+          print(f"README updated to: {repo_name}")
+          PY
+
+      - name: Commit README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update currently working repo"
+          git push
