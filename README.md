@@ -109,7 +109,7 @@
 
 <!-- CURRENT_REPO:START -->
 
-<a href="https://github.com/rudrika08">
+<a href="https://github.com/rudrika08/task-manager-cicd">
 
   <img
     src="https://img.shields.io/badge/🟢%20ACTIVE-CURRENTLY%20WORKING%20ON-2ea043?style=for-the-badge&labelColor=161b22"
@@ -121,7 +121,7 @@
 <br><br>
 
 <h2>
-  💻 <a href="https://github.com/rudrika08">Loading...</a>
+  💻 <a href="https://github.com/rudrika08/task-manager-cicd">task-manager-cicd</a>
 </h2>
 
 <p>
@@ -129,7 +129,16 @@
 </p>
 
 <p>
-  🕐 <b>Last commit:</b> Loading...
+  🕐 <b>Last commit:</b> 20 Jun 2026
+</p>
+
+<p>
+  <a href="https://github.com/rudrika08/task-manager-cicd">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-%E2%86%92-21262d?style=flat-square"
+      alt="View Repository"
+    />
+  </a>
 </p>
 
 <!-- CURRENT_REPO:END -->
