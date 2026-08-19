@@ -60,7 +60,7 @@
 </div>
 
 <p align="center">
-  I enjoy building things end-to-end — from designing interfaces and developing backend systems
+  I enjoy building things end-to-end from designing interfaces and developing backend systems
   to deploying applications through automated cloud infrastructure.
 </p>
 
@@ -117,8 +117,6 @@
   />
 
 </a>
-
-<br><br>
 
 <h2>
   💻 <a href="https://github.com/rudrika08/task-manager-cicd">task-manager-cicd</a>
@@ -189,9 +187,9 @@
   and collaborative travel experiences.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <b>AI • Full Stack • Intelligent Coordination</b>
-</p>
+</p> -->
 
 </td>
 
@@ -276,8 +274,6 @@
 
 </tr>
 </table>
-
----
 
 ## 📊 GitHub Analytics
 
