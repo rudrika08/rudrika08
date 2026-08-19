@@ -17,7 +17,7 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rudrika08">
     <img src="https://komarev.com/ghpvc/?username=rudrika08&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
@@ -29,7 +29,7 @@
   <a href="https://github.com/rudrika08">
     <img src="https://img.shields.io/github/stars/rudrika08?label=Stars&style=flat&color=yellow" />
   </a>
-</p>
+</p> -->
 
 
 ## 🧠 About Me
