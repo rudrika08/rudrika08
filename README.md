@@ -33,14 +33,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrika08&theme=tokyonight" alt="GitHub Stats" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight&hide_border=true&card_width=310" />
 </div>
-<div align="center">
-
-  <h3>📊 Recent Activity</h3>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrika08&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-<div align="center">
 
   <h3>🚀 Currently Working On</h3>
 
