@@ -37,10 +37,14 @@
   <h3>🚀 Currently Working On</h3>
 
   <!-- CURRENT_REPO:START -->
-  <a href="https://github.com/rudrika08">
-    <img src="https://img.shields.io/badge/Currently-Loading...-blue?style=for-the-badge" />
-  </a>
-  <!-- CURRENT_REPO:END -->
+<a href="https://github.com/rudrika08/task-manager-cicd">
+  <img src="https://img.shields.io/badge/task--manager--cicd-Currently%20Working%20On-blue?style=for-the-badge" alt="Currently Working On" />
+</a>
+
+<br>
+
+<sub>Last commit: 20 Jun 2026</sub>
+<!-- CURRENT_REPO:END -->
 
 </div>
 
