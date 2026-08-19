@@ -30,11 +30,26 @@
 | 🤖 **Portfolio + RAG Chatbot** | ReactJS, Gemini Embeddings, Groq (LLaMA) | My personal portfolio site featuring a RAG-powered chatbot that can answer questions about my work. [Live](https://www.rudrika.tech/) |
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rudrika08&show_icons=true&theme=tokyonight&hide_border=true&card_width=440" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrika08&theme=tokyonight" alt="GitHub Stats" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudrika08&layout=compact&theme=tokyonight&hide_border=true&card_width=310" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rudrika08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <h3>📊 Recent Activity</h3>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrika08&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+<div align="center">
+
+  <h3>🚀 Currently Working On</h3>
+
+  <!-- CURRENT_REPO:START -->
+  <a href="https://github.com/rudrika08">
+    <img src="https://img.shields.io/badge/Currently-Loading...-blue?style=for-the-badge" />
+  </a>
+  <!-- CURRENT_REPO:END -->
+
 </div>
 
 ### 📬 Let's Connect!
