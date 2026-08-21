@@ -42,7 +42,7 @@
 
 🎓 **B.Tech CSE @ KIIT University** — Class of 2027  
 🚀 **Senior Technical Executive @ FED KIIT**  
-🛰 **ISRO Internship Experience**  
+🛰 **Ex-ISRO Summer Intern**  
 
 </td>
 
